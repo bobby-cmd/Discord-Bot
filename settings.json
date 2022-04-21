@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/086abf8b-d0f1-4701-ac58-f7cc90220df8/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/HelloWorldpoggers1",
+    "appService.deploySubpath": "."
+}
